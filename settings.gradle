@@ -1,0 +1,3 @@
+rootProject.name='03_26_Intent'
+include ':app'
+include ':intent_data'
